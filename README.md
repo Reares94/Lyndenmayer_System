@@ -22,6 +22,7 @@ How can I produce the results?
 How do I install it?
 
 Download the code and launch the index.html file with a browser. The code has been tested with Mozilla Firefox and Google Chrome.
+You should have a dedicated GPU to render more trees and to use a higher number of iterations(the maximum allowed is 7).
 
 A)Google Chrome:
 
