@@ -48,7 +48,7 @@ Examples
 
 <img width="1415" alt="Seconda" src="https://user-images.githubusercontent.com/93512390/139705074-95640e63-cb14-45f8-891a-e4170e357072.png">
 
-<img width="1411" alt="Terza" src="https://user-images.githubusercontent.com/93512390/139706814-83c11230-1b28-49ca-8806-64b08051a19d.png">
+<img width="1418" alt="Terza" src="https://user-images.githubusercontent.com/93512390/139707381-be85e8c9-0f04-48be-b38c-83af27587954.png">
 
 <img width="1411" alt="Quarta" src="https://user-images.githubusercontent.com/93512390/139705307-911e924b-fc1b-4595-b289-337ec5310295.png">
 
