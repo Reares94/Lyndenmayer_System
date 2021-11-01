@@ -25,7 +25,7 @@ Download the code and launch the index.html file with a browser. The code has be
 
 A)Google Chrome:
 
-You must enable Google Chrome through "allow-file-access-from-files" to load textures.In the macOS you can write the following line of code to enable     Chrome from the command prompt:
+You must enable Google Chrome through "allow-file-access-from-files" to load textures.In the macOS you can write the following line of code to enable Chrome from the command prompt:
 
    
                               open -a "Google Chrome" --args --allow-file-access-from-files
@@ -36,7 +36,7 @@ Remember to close all Chrome web sessions, otherwise it doesn't work!
 
 B)Mozilla Firefox:
 
-In Firefox,first you need to navigate to about:config in the Firefox browser, search for the privacy.file_unique_origin setting, and set it from true
+In Firefox, first you need to navigate to about:config in the Firefox browser, search for the privacy.file_unique_origin setting, and set it from true
 to false.
 
 
@@ -44,6 +44,13 @@ to false.
 Examples
 
 
+<img width="1416" alt="Prima" src="https://user-images.githubusercontent.com/93512390/139704994-6e8f2780-d8f8-40bc-b239-898542b3e431.png">
+
+<img width="1415" alt="Seconda" src="https://user-images.githubusercontent.com/93512390/139705074-95640e63-cb14-45f8-891a-e4170e357072.png">
+
+<img width="1415" alt="Terza" src="https://user-images.githubusercontent.com/93512390/139705211-f9da087d-74e4-4b4a-bffc-cb59ac346991.png">
+
+<img width="1411" alt="Quarta" src="https://user-images.githubusercontent.com/93512390/139705307-911e924b-fc1b-4595-b289-337ec5310295.png">
 
 
 
