@@ -28,6 +28,7 @@ A)Google Chrome:
 You must enable Google Chrome through "allow-file-access-from-files" to load textures.In the macOS you can write the following line of code to enable     Chrome from the command prompt:
 
    
+   
    open -a "Google Chrome" --args --allow-file-access-from-files
    
 
