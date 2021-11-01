@@ -29,6 +29,8 @@ You must enable Google Chrome through "allow-file-access-from-files" to load tex
 
    
   open -a "Google Chrome" --args --allow-file-access-from-files
+  
+  http://github.com - automatic!
    
 
 
