@@ -28,28 +28,8 @@ A)Google Chrome:
 You must enable Google Chrome through "allow-file-access-from-files" to load textures.In the macOS you can write the following line of code to enable     Chrome from the command prompt:
 
    
+  open -a "Google Chrome" --args --allow-file-access-from-files
    
-   open -a "Google Chrome" --args --allow-file-access-from-files
-   
 
-Remember to close all Chrome web sessions, otherwise it doesn't work!
 
-B)Mozilla Firefox:
 
-In Firefox, first you need to navigate to about:config in the Firefox browser, search for the privacy.file_unique_origin setting, and set it from true to false by double-clicking it.
-
----------------------------------------------------------------------------------------------------
-
-Example
-
-----------------------------------------------------------------------------------------------------
-
-References
-
-[1]https://threejs.org/
-
-[2]https://en.wikipedia.org/wiki/L-system
-
-[3]https://www.carl-olsson.com/project/l-system/
-
-[4]http://algorithmicbotany.org/papers/abop/abop-ch1.pdf
